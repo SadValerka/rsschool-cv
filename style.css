@@ -58,3 +58,9 @@ pre {
 p {
   margin-bottom: 10px;
 }
+
+footer img {
+  background-color: #993232;
+  padding: 5px;
+  border-radius: 6px;
+}

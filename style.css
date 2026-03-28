@@ -64,3 +64,21 @@ footer img {
   padding: 5px;
   border-radius: 6px;
 }
+
+nav {
+    display: grid; 
+    grid-template-columns: repeat(2, 120px); 
+    gap: 10px 40px; 
+    justify-content: center; 
+    margin-top: 20px; 
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: rgb(218, 47, 47); 
+}
+
+nav a {
+  text-align: center;
+  display: block;
+}
